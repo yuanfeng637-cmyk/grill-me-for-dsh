@@ -2,12 +2,6 @@ MIT License
 
 Copyright (c) 2026 yuanfeng637-cmyk
 
-本许可适用于本项目**新增部分**（相对基座 `max4c/skills` 的修改与扩展）。
-
-基座部分（五维 rubric、锚点示例、阈值、报告格式、评分纪律骨干）版权归
-Copyright (c) 2026 Max Forsey，同样以 MIT 授权；其许可全文与声明见
-`THIRD-PARTY-NOTICES.md`，不得移除。
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
